@@ -94,7 +94,7 @@
 .h2{
     font-family: "Inter Tight", sans-serif;
     font-size: 40px;
-    
+     
 }
 
 .another-text{
@@ -210,52 +210,43 @@
             margin-bottom: 30px;
 }
 
-.containner-text{
-    text-align: center;
-    margin-left: -600px;
-    margin-top: 100px;
+.text-box>h2{
+    margin-left: 200px ;
+    margin-top: 80px;
+    font-size: 40px;
+    font-family: "Inter Tight", sans-serif;
 }
 
-.containner-text > h1{
-        font-family: "Inter Tight", sans-serif;
-        font-size: 50px;
-        color: #161C52;
-        text-align: center;
+.Candidate{
+    color: rgba(128, 0, 128, 0.801);
+    font-style: italic;
+     font-family: "Instrument Serif", serif;
 }
 
-.For{
-    font-size: 50px;
-    margin-left: -320px;
+.text-box{
+    margin-top: 60px;
 }
 
-
-
-.candidate-img{
- margin-left: 200px;
- margin-top: -900px;
- 
-}
-
-
-.text-format{
-    margin-left: 190px;
+.text-box>p{
     margin-top: 10px;
+    margin-left: 200px ;
     font-size: small;
-
-}
- 
-.last img{
-    margin-left: -400px;
-    margin-bottom: 800px;
+    margin-bottom: 20px;
 }
 
-.Conatinner-2{
+.imges{
+    display: grid;
+    flex-direction: row;
+    margin-left: 200px ;
+}
+
+.content{
     display: flex;
 }
 
-.img-2{
-    margin-left: 730px;
-    margin-top: -300px;
+.backg-2{
+    margin-left: 130px;
+    margin-top: 60px;
 }
 
 
@@ -280,7 +271,7 @@
 
 .Container-10{
     margin-left: 190px;
-     margin-top: 100px;
+     margin-top: 10px;
 }
 
 .footer{
