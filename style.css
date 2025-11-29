@@ -1,0 +1,288 @@
+/* fonts link */
+
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+
+    padding: 0;
+    margin: 0;
+}
+
+.topnav {
+    background-color: rgba(128, 0, 128, 0.801);
+    text-align: center;
+    border-radius: 30px;
+    color: white;
+    padding: 10px;
+    margin: 10px
+}
+
+.logo-img {
+    margin: 20px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.lists {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: 50px;
+
+}
+
+.btn1 {
+
+    padding: 10px;
+    border-radius: 30px;
+    background-color: rgba(128, 0, 128, 0.801);
+    color: white;
+}
+
+.btn2 {
+
+    padding: 10px;
+    border-radius: 30px;
+    border-color: rgba(128, 0, 128, 0.801);
+    color: rgba(128, 0, 128, 0.801);
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    border-radius: 80px;
+    background-color: rgba(128, 0, 128, 0.801);
+    border: 30px;
+    width: fit-content;
+
+
+
+}
+
+.main {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.text>p {
+    color: #161c52;
+    gap: 20px;
+    
+}
+
+.h1 {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 60px;
+   font-family: "Inter Tight", sans-serif;
+
+}
+
+.lower-text {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.h2{
+    font-family: "Inter Tight", sans-serif;
+    font-size: 40px;
+    
+}
+
+.another-text{
+    font-family: "Instrument Serif", serif;
+    color: #161c52;
+    font-size: 40px;
+   font-style: italic;
+}
+.upper-text{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.lower-text{
+     text-align: center;
+}
+
+.buttons{
+    margin-bottom: 40px;
+}
+
+
+.button{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+
+}
+
+.buttons{
+    border-radius: 30px;
+    margin: 35px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgba(128, 0, 128, 0.801);
+    color: white;
+}
+
+
+.hero-section{
+    margin-bottom: 30px;
+}
+
+.absolute{
+    position: absolute;
+    z-index: 1;
+    top: 50px;
+    left: 150px;
+    margin-top: 650px;
+}
+
+.relative{
+    position: relative;
+    margin-top: 350px;
+}
+
+/* FIRST PAGE STYLE COMPLETED */
+
+/* SECONND PAGE START */
+
+
+.text-2{
+    display: flex;
+   justify-content: center;
+   margin-top: 60px;
+   gap: 10px;
+   font-family: "Inter Tight", sans-serif;
+   font-weight: 500px;
+}
+
+.text-3{
+        font-family: "Instrument Serif", serif;
+        font-style: italic;
+        color: rgba(128, 0, 128, 0.801);
+}
+.para{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 12px;
+    font-family: "Inter Tight", sans-serif;
+    margin-bottom: 50px;
+}
+
+.Container{
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+.Background-container{
+    display: flex;
+
+}
+
+.Background-1{
+    margin-left: 180px;
+}
+
+
+.First-h1{
+        font-family: "Inter Tight", sans-serif;
+        font-weight: 50px;
+
+}
+
+.Container-1{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.Container-1>p{
+            font-family: "Inter Tight", sans-serif;
+            font-size: small;
+            margin-bottom: 30px;
+}
+
+.containner-text{
+    text-align: center;
+    margin-left: -600px;
+    margin-top: 100px;
+}
+
+.containner-text > h1{
+        font-family: "Inter Tight", sans-serif;
+        font-size: 50px;
+        color: #161C52;
+        text-align: center;
+}
+
+.For{
+    font-size: 50px;
+    margin-left: -320px;
+}
+
+
+
+.candidate-img{
+ margin-left: 200px;
+ margin-top: -900px;
+ 
+}
+
+
+.text-format{
+    margin-left: 190px;
+    margin-top: 10px;
+    font-size: small;
+
+}
+ 
+.last img{
+    margin-left: -400px;
+    margin-bottom: 800px;
+}
+
+.Conatinner-2{
+    display: flex;
+}
+
+.img-2{
+    margin-left: 730px;
+    margin-top: -300px;
+}
+
+
+.bakgrd-3{
+    margin-top: 150px;
+}
+
+.containner-8{
+   margin-left: 180px;
+   margin-top: 120px;
+}
+
+.containner-9{
+    background-color: #484a6136;
+    margin-top: 190px;
+}
+
+.containner-8-img{
+    margin-left: 190px;
+    margin-top: 190px;
+}
+
+.Container-10{
+    margin-left: 190px;
+     margin-top: 100px;
+}
+
+.footer{
+    margin-top: 100px;
+}
